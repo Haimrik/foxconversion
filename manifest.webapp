@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "name": "FoxConversion",
+  "description": "Currency Conversor for FirefoxOS",
+  "developer": {
+    "name": "Jonathan, Heron and Henrique"
+    },
+    "launch_path": "/index.html",
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+  "icons": {
+    "16": "/img/icon1.png",
+    "32": "/img/icon2.png",
+    "48": "/img/icon3.png",
+    "60": "/img/icon4.png",
+    "64": "/img/icon5.png",
+    "90": "/img/icon6.png",
+    "128": "/img/icon7.png",
+    "256": "/img/icon8.png",
+    "512": "/img/icon9.png"
+  },
+  "display": "fullscreen",
+  "orientation": [ "portrait-primary" ],
+  "version": "2.1"
+
+}
+  
